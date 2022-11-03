@@ -13,7 +13,10 @@
     <header>
         <div class="conainer">
             <div class="nav">
-                <h1>Flashcards</h1>
+                <div style="display: flex;">
+                    <h1 style="padding-right: 10px;">Flashcards</h1>
+                    <button onclick="generateSampleData()">Sample Data</button>
+                </div>
                 <div>
                     <button onclick="showCreateCardBox()">New Card</button>
                     <button onclick="editFlashcards()">Edit Cards</button>
@@ -32,7 +35,7 @@
             <textarea id="answer"></textarea>
             <div>
                 <button id="save-update" onclick="addFlashcard()">Save</button>
-                <button onclick="hideCreateBox()">Close</button>
+                <button id="close"onclick="hideCreateBox()">Close</button>
             </div>
         </div>
         <div class="flashcards"></div>

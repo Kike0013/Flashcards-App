@@ -1,0 +1,52 @@
+[
+    {
+        "id": "sample1",
+        "my_question": "What is an Alias in SQL?",
+        "my_answer": "It is a temporary name assigned to the table or table column for the purpose of a particular SQL query"
+    },
+    {
+        "id": "sample2",
+        "my_question": "What is a View in SQL?",
+        "my_answer": "A view in SQL is a virtual table based on the result-set of an SQL statement"
+    },
+    {
+        "id": "sample3",
+        "my_question": "What is a Self-Join?",
+        "my_answer": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s)"
+    },
+    {
+        "id": "sample4",
+        "my_question": "What is OLTP?",
+        "my_answer": "OLTP stands for Online Transaction Processing, is a class of software applications capable of supporting transaction-oriented programs."
+    },
+    {
+        "id": "sample5",
+        "my_question": "What is Data Integrity?",
+        "my_answer": "Data Integrity is the assurance of accuracy and consistency of data over its entire life-cycle and is a critical aspect of the design, implementation, and usage of any system which stores, processes, or retrieves data"
+    },
+    {
+        "id": "sample6",
+        "my_question": "What is Collation?",
+        "my_answer": "Collation refers to a set of rules that determine how data is sorted and compared"
+    },
+    {
+        "id": "sample7",
+        "my_question": "What is a Stored Procedure?",
+        "my_answer": "A stored procedure is a subroutine available to applications that access a relational database management system (RDBMS)"
+    },
+    {
+        "id": "sample8",
+        "my_question": "What is Pattern Matching in SQL?",
+        "my_answer": "SQL pattern matching provides for pattern search in data if you have no clue as to what that word should be"
+    },
+    {
+        "id": "sample9",
+        "my_question": "How will you change the datatype of a column?",
+        "my_answer": "This can be done by using the ALTER TABLE statement"
+    },
+    {
+        "id": "sample10",
+        "my_question": "What is the importance of the TRUNCATE statement?",
+        "my_answer": "TRUNCATE TABLE name_of_table statement removes the data efficiently and quickly from the table"
+    }
+]
