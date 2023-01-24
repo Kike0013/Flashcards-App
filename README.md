@@ -1,7 +1,7 @@
 # Flashcard App
 ### Cloned in Javascript from [this tutorial](https://www.youtube.com/watch?v=wtqbOFYivxw)
 
-#### A simple flashcard app that saves its date in local storage.
+#### A simple flashcard app that saves its data in local storage.
 
 ## Functionalities from the tutorial:
 - Saves cards in local storage
